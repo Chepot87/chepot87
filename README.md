@@ -1,4 +1,4 @@
-# Hey, I’m Chepo 👋
+# Hey, I’m Chepo 
 
 Front-end developer in progress focused on semantic HTML, CSS layout, and JS fundamentals.  
 Build → break → fix → repeat. Support Lead in e-commerce QA (strong testing habits, detail-driven).
