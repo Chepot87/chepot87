@@ -18,10 +18,10 @@ Build → break → fix → repeat. Support Lead in e-commerce QA (strong testin
 - Rules: If it’s not **responsive**, it doesn’t ship. If it’s slow, it gets faster.
 
 **Progress snapshot**
-- HTML semantics & structure — ✅ solid  
-- CSS layout (Flexbox/Grid), typography, spacing — 🔥 getting crisp  
-- JavaScript fundamentals — 🌱 growing  
-- Accessibility & basic SEO — ✅ habits getting baked in
+- HTML semantics & structure — solid  
+- CSS layout (Flexbox/Grid), typography, spacing — getting crisp  
+- JavaScript fundamentals — growing  
+- Accessibility & basic SEO — habits getting baked in
 
 ---
 
