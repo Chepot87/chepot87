@@ -10,7 +10,7 @@ Build → break → fix → repeat. Support Lead in e-commerce QA (strong testin
 
 ---
 
-##  About me (straight up)
+##  About me 
 
 - Learning **Front-End** the real way: build → break → fix → repeat.  
 - **Stack right now:** HTML5, CSS3, (JS basics in progress).  
