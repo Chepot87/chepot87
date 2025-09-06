@@ -1,90 +1,37 @@
-# Hey, I’m Chepo 
+#  Hey, I’m Chepo  
 
-Front-end developer in progress focused on semantic HTML, CSS layout, and JS fundamentals.  
-Build → break → fix → repeat. Support Lead in e-commerce QA (strong testing habits, detail-driven).
- 
-
-[![Followers](https://img.shields.io/github/followers/Chepot87?style=social)](https://github.com/Chepot87?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Chepot87?affiliations=OWNER&style=social)](https://github.com/Chepot87?tab=stars)
-![Profile Views](https://komarev.com/ghpvc/?username=Chepot87&style=flat-square)
+**Front-End Developer in progress.**  
+I build simple, fast, responsive sites — and ship projects that actually *solve problems*.  
 
 ---
 
-##  About me 
+##  About Me  
+-  Creator of **[ICQAtool](https://chepot87.github.io/ICQAtool/)** – a web app for auditing inventory & exporting to Excel (born from my QA role at Walmart).  
+-  Built **[Country Pizza](https://chepot87.github.io/country-pizza/)** – bringing a 40+ year family business online.  
+-  Designed **[Lovely Dog Care](https://chepot87.github.io/LovelyDogCare/)** – clean, minimal landing for a friend’s grooming service.  
+-  Shipped **[Taquisimo](https://chepot87.github.io/taquisimo/)** – modern landing page concept.  
+-  Developed **[Norvak](https://chepot87.github.io/norvak-web/)** – a personal site/agency-style portfolio.  
 
-- Learning **Front-End** the real way: build → break → fix → repeat.  
-- **Stack right now:** HTML5, CSS3, (JS basics in progress).  
-- **Course:** Meta Front-End (self-paced).  
-- Rules: If it’s not **responsive**, it doesn’t ship. If it’s slow, it gets faster.
-
-**Progress snapshot**
-- HTML semantics & structure — solid  
-- CSS layout (Flexbox/Grid), typography, spacing — getting crisp  
-- JavaScript fundamentals — growing  
-- Accessibility & basic SEO — habits getting baked in
+I learn by doing → build → break → fix → ship again.  
+Currently leveling up in **JavaScript** (DOM, forms, fetch API, interactivity) while keeping **accessibility** and **performance** at the core.  
 
 ---
 
-##  Featured Projects (live first)
-
-**Norvak Web** — portfolio/agency landing  
-Live: https://chepot87.github.io/norvak-web/ • Repo: https://github.com/Chepot87/norvak-web  
-_Clean sections, performance-minded, mobile-first._
-
-**Country Pizza** — family business website  
-Live: https://chepot87.github.io/country-pizza/ • Repo: https://github.com/Chepot87/country-pizza  
-_Menu, hours, map. Simple on purpose, easy to read._
-
-**Lovely Dog Care** — grooming landing page  
-Live: https://chepot87.github.io/LovelyDogCare/ • Repo: https://github.com/Chepot87/LovelyDogCare  
-_Friendly copy, icons, good type, smooth layout._
-
-**ICQAtool** — warehouse audits → export to Excel  
-Live: https://chepot87.github.io/ICQAtool/ • Repo: https://github.com/Chepot87/ICQAtool  
-_Click → audit → export. Built from real-life pain points._
-
-**Taquisimo** — minimal concept (food/branding)  
-Live: https://chepot87.github.io/taquisimo/ • Repo: https://github.com/Chepot87/taquisimo
+##  Tech Stack  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)  
 
 ---
 
-##  Leveling up now
-
-- CSS architecture (utility classes, spacing scale, components)
-- Micro-interactions & subtle animations (no carnival)
-- JS fundamentals: DOM, events, fetch, form validation
-- Consistent READMEs + social preview image per repo
-- Higher Lighthouse scores across all demos
+##  GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chepot87&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chepot87&layout=compact&theme=tokyonight)  
 
 ---
 
-##  Roadmap (short & honest)
-
-- [ ] **ICQAtool:** sample dataset + short GIF of the export flow  
-- [ ] **Norvak Web:** clear services, stronger CTA, contact form with validation  
-- [ ] **Country Pizza:** printable menu + embedded map + hours block  
-- [ ] **Lovely Dog Care:** one testimonial w/ photo + tiny hover states  
-- [ ] Add **MIT License** and `.editorconfig` across repos
-
----
-
-##  Tools I use
-
-VS Code • Git & GitHub • Google Fonts • Font Awesome  
-Mindset: semantic HTML • responsive by default • performance first
-
----
-
-##  Contact
-
-- Hit me on LinkedIn or email (DM me / open an issue).  
-- Got feedback? Open an issue on the repo you’re viewing.
-
----
-
-##  Just for fun
-
-![Chepo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Chepot87&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chepot87&layout=compact)
-
----
+##  Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-cortes-5615a9283/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chepot87)  
