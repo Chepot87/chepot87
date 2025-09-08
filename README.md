@@ -1,31 +1,30 @@
-# Hey, I’m Chepo  
+#  Hey, I’m Chepo (Norvak)
 
-**Front-End Developer in progress**  
-I enjoy building simple, fast, and responsive websites — always focused on learning, improving, and shipping projects that solve real problems.  
+ Front-End Developer in progress — passionate about building **modern, fast, and accessible websites**.  
+I enjoy mixing clean UI design with solid code practices, creating projects that are both functional and timeless.  
+
+###  What I do
+-  **Design** → Brand-aligned UI, color systems, and responsive layouts.  
+-  **Development** → Semantic HTML, modern CSS, and progressive JS enhancements.  
+-  **Optimization** → Performance, SEO basics, and analytics integration.  
+
+###  Projects
+- [**Norvak Web**](https://chepot87.github.io/norvak-web/) – My personal dev brand site.
+- [**Norvak Web Version B**](https://chepot87.github.io/Norvak-Version-B/#work)- Personal dev brand option B.
+- [**Country Pizza**](https://chepot87.github.io/country-pizza/) – Family business website.  
+- [**Lovely Dog Care**](https://chepot87.github.io/LovelyDogCare/) – Grooming/daycare business site.  
+- [**Taquisimo**](https://chepot87.github.io/taquisimo/) – Digital taco concept landing page.  
+- [**ICQA Tool**](https://chepot87.github.io/ICQAtool/) – Inventory auditing tool with export to Excel.  
+
+###  Tech I use
+- **HTML5 / CSS3 / JavaScript**  
+- **Responsive & Mobile-first design**  
+- **SEO & Accessibility**  
+- **GitHub Pages / VS Code**  
+
+###  Let’s connect
+-  [LinkedIn](https://www.linkedin.com/in/jose-cortes-5615a9283/)  
+-  [GitHub](https://github.com/Chepot87)  
 
 ---
-
-## About Me  
-I’m currently sharpening my skills in **HTML, CSS, and JavaScript**, while sharing my journey here on GitHub.  
-My goal is to grow into a professional web developer and keep leveling up with every project I release.  
-
----
-
-## Tech Stack  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)  
-
----
-
-## GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chepot87&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chepot87&layout=compact&theme=tokyonight)  
-
----
-
-## Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-cortes-5615a9283/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chepot87)  
+ *Always learning, building... Let’s collaborate!*
