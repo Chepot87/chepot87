@@ -10,7 +10,7 @@ I enjoy mixing clean UI design with solid code practices, creating projects that
 
 ###  Projects
 - [**Norvak Web**](https://chepot87.github.io/norvak-web/) – My personal dev brand site.
-- [**Norvak Web (Version B)**](https://chepot87.github.io/Norvak-Version-B/#work)- Personal dev brand option B.
+- [**Norvak Web (Version B)**](https://chepot87.github.io/Norvak-Version-B)- Personal dev brand option B.
 - [**Country Pizza**](https://chepot87.github.io/country-pizza/) – Family business website.  
 - [**Lovely Dog Care**](https://chepot87.github.io/LovelyDogCare/) – Grooming/daycare business site.  
 - [**Taquisimo**](https://chepot87.github.io/taquisimo/) – Digital taco concept landing page.  
