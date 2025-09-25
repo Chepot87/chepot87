@@ -14,7 +14,8 @@ I enjoy mixing clean UI design with solid code practices, creating projects that
 - [**Country Pizza**](https://chepot87.github.io/country-pizza/) – Family business website.  
 - [**Lovely Dog Care**](https://chepot87.github.io/LovelyDogCare/) – Grooming/daycare business site.  
 - [**Taquisimo**](https://chepot87.github.io/taquisimo/) – Digital taco concept landing page.  
-- [**ICQA Tool**](https://chepot87.github.io/ICQAtool/) – Inventory auditing tool with export to Excel.  
+- [**ICQA Tool**](https://chepot87.github.io/ICQAtool/) – Inventory auditing tool with export to Excel.
+- [**Dee's Breads**](https://chepot87.github.io/Dee-s-Breads/) - Home made stuffed bread and sweet pastries. 
 
 ###  Tech I use
 - **HTML5 / CSS3 / JavaScript**  
